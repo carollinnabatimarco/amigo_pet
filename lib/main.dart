@@ -6,6 +6,7 @@ void main() {
   runApp(const AmigoPetApp());
 }
 
+
 class AmigoPetApp extends StatelessWidget {
   const AmigoPetApp({super.key});
 
